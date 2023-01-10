@@ -255,7 +255,7 @@ footer{
 	flex-wrap: wrap;
 }
 
-.vds video{
+.vds .video{
 	width: 400px;
 	height: 200px;
 }
@@ -305,7 +305,7 @@ footer{
 		width: 100%;
 		left: 0;
 	}
-	.vds video{
+	.vds .video{
 		width: 200px;
 	}
 	.vDescricao{
