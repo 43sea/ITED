@@ -105,7 +105,7 @@ function cartoesSV(num, video, descricao) {
 /*Os vidoes e suas descrições*/
 /*Pregacoes*/
 let pVideos = [
-	`<class=video iframe width="789" height="498" src="https://www.youtube.com/embed/g9WpfY49Bn0" title="Just whatch it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`
+	`<iframe class=video width="789" height="498" src="https://www.youtube.com/embed/g9WpfY49Bn0" title="Just whatch it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`
 ]
 
 let pVideosDescricao =[
@@ -118,7 +118,7 @@ for(let i=0; i<pVideos.length; i++){
 /*--------------------------------------------------*/
 /*testemunhos*/
 let tVideos = [
-	`<class=video iframe width="789" height="498" src="https://www.youtube.com/embed/g9WpfY49Bn0" title="Just whatch it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`
+	`<iframe class=video width="789" height="498" src="https://www.youtube.com/embed/g9WpfY49Bn0" title="Just whatch it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`
 ]
 
 let tVideosDescricao =[
@@ -131,7 +131,7 @@ for(let i=0; i<tVideos.length; i++){
 /*--------------------------------------------------*/
 /*apresentações dos jovens*/
 let aJVideos = [
-	`<class=video iframe width="789" height="498" src="https://www.youtube.com/embed/g9WpfY49Bn0" title="Just whatch it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`	
+	`<iframe class=video width="789" height="498" src="https://www.youtube.com/embed/g9WpfY49Bn0" title="Just whatch it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`	
 ]
 
 let aJVideosDescricao =[
@@ -144,7 +144,7 @@ for(let i=0; i<aJVideos.length; i++){
 /*--------------------------------------------------*/
 /*apresentações das mães*/
 let aMVideos = [
-	`<class=video iframe width="789" height="498" src="https://www.youtube.com/embed/g9WpfY49Bn0" title="Just whatch it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`
+	`<iframe class=video width="789" height="498" src="https://www.youtube.com/embed/g9WpfY49Bn0" title="Just whatch it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`
 ]
 
 let aMVideosDescricao =[
@@ -157,7 +157,7 @@ for(let i=0; i<aMVideos.length; i++){
 /*--------------------------------------------------*/
 /*outros*/
 let oVideos = [
-	`<class=video iframe width="789" height="498" src="https://www.youtube.com/embed/g9WpfY49Bn0" title="Just whatch it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`
+	`<iframe class=video width="789" height="498" src="https://www.youtube.com/embed/g9WpfY49Bn0" title="Just whatch it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`
 ]
 
 let oVideosDescricao =[
